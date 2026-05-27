@@ -308,10 +308,7 @@ npm run lint         # ESLint check
 
 ## 📄 License
 
-MIT License — feel free to use this project for your portfolio!
-
----
 
 <div align="center">
-  Built with ❤️ by the PinVault team | Ready for production 🚀
+  Built with ❤️ Loguesvaran  | Ready for production 🚀
 </div>
